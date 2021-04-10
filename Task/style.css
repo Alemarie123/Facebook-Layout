@@ -1,0 +1,252 @@
+
+body{
+    background-color: #DDD8C4;
+    margin: 0;
+}
+.top{
+    background-color: #50808E;
+    position: relative;
+    padding-top: 10px;
+    height: 10vh;
+}
+p{  
+   display: inline-block;
+   margin-left: 45px;
+   margin-top: 10px;
+   color: #DDD8C4;
+   font-size: 45px;
+   font-family: 'Dancing Script', cursive;
+   
+}
+.second-P{
+    position: absolute;
+    color: #fff;
+    font-size: 13px;
+    margin-left: 46%;
+    margin-top: 8px;
+    font-family: Arial;
+}
+span{
+    position: absolute;
+    margin-left: 46%;
+  
+}
+span input[type=text]{
+    position: absolute;
+    margin-left: 46%;
+    margin-top: 25px;
+    outline: none; 
+}
+.third-P{
+    position: absolute;
+    color: #fff;
+    font-size: 13px;
+    margin-left: 60%;
+    margin-top: 8px;
+    font-family: Arial;
+}
+.secondSpan{
+    position: absolute;
+    margin-left: 60%;
+}
+.secondSpan input[type=text]{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 25px;
+    outline: none; 
+}
+.btnLogin{
+    margin-left: 74%;
+    margin-top: 25px;
+    color: #fff;
+    
+}
+.btnLogin #btn-login{
+    background-color: #50808E;
+    color: #fff;
+}
+.forgot{
+    position: absolute;
+    color: #fff;
+    font-size: 10px;
+    margin-left: 60%;
+    margin-top: 47px;
+    font-family: Arial;  
+}
+.fbHelps{
+    position: absolute;
+    color: #84B59F;
+    margin-top: 30px;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Courgette', cursive;
+}
+.leftSide{
+    margin-left:10%;
+}
+.rightSide img{
+    margin-top: 85px;
+    margin-left: 3%;
+    position: absolute;
+}
+.create{
+    position: absolute;
+    color: #69A297;
+    font-size: 35px;
+    margin-left: 50%;
+    margin-top: 20px;
+    font-weight: bold;
+    
+}
+.quick{
+    color: #69A297;
+    font-size: 15px;
+    margin-left: 56%;
+    margin-top: 60px;
+    font-family: Arial;
+   
+}
+.Fname input[type=text]{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 10px;
+    width: 210px;
+    height: 25px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border-width: 1px;
+    border-color: #dcdfed;
+    outline: none;
+}
+.Fname input[type=text]:focus{
+    border-color: #50808E;
+    box-shadow: 0 0 8px 0 #50808E;
+}
+.Sname input[type=text]{
+    position: absolute;
+    margin-left: 77%;
+    margin-top: 10px;
+    width: 210px;
+    height: 25px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border-width: 1px;
+    border-color: #dcdfed;
+    outline: none;
+}
+.Sname input[type=text]:focus{
+    border-color: #50808E;
+    box-shadow: 0 0 8px 0 #50808E;
+}
+.number input[type=text]{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 50px;
+    width: 443px;
+    height: 25px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border-width: 1px;
+    border-color: #dcdfed;
+    outline: none;
+}
+.number input[type=text]:focus{
+    border-color: #50808E;
+    box-shadow: 0 0 8px 0 #50808E;
+}
+.newPass input[type=text]{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 90px;
+    width: 443px;
+    height: 25px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border-width: 1px;
+    border-color: #dcdfed;
+    outline: none;
+}
+.newPass input[type=text]:focus{
+    border-color: #50808E;
+    box-shadow: 0 0 8px 0 #50808E;
+}
+.bday{
+    color: #69A297;
+    font-size: 20px;
+    margin-left: -2%;
+    margin-top: 140px;
+    font-weight: bold;
+}
+select {
+    background-color: white;
+    border-radius: 4px;
+    display: inline-block;
+    line-height: 1em;
+    padding: 0.3em 1.3em 0.3em 1em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("C:/Users/Cleofe/Desktop/SIA/updown.png");
+    background-position: calc(100% - 0.1rem), 100% 0;
+    background-size: 1.2em 1.1em;
+    background-repeat: no-repeat;
+  }
+.setBday{
+    margin-left: 61%;
+}
+.gender{
+    color: #69A297;
+    font-size: 20px;
+    margin-left: 60%;
+    margin-top: 15px;
+    font-weight: bold;
+}
+.radio-group{
+    margin-top: 1px;
+    margin-left: 60%;
+}
+.male{
+    margin-left: 16px;
+}
+.custom{
+    margin-left: 16px;
+}
+.policy{
+    margin-top: 25px;
+    font-size: 15px;
+    color: #50808E;
+    margin-left: 60%;
+    width: 485px;
+    font-family: Arial;
+}
+.rules{
+    font-size: 18px;
+    color: #08204f
+}
+.rule{
+    font-size: 15px;
+    color: #08204f;
+}
+.btnSignUp{
+    margin-left: 60%;
+    margin-top: -1px;
+}
+.btnSignUp #btn-signUp{
+    background-color: #50808E;
+    color: #fff;
+    border-radius: 5px;
+    width: 190px;
+    height: 35px;
+}
+.last-P{
+    font-size: 15px;
+    color:#50808E ;
+    margin-left: 60%;
+    width: 485px;
+    margin-top: 10px;
+    display: inline-block;
+    font-family: Arial;
+}
+
